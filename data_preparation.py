@@ -109,7 +109,7 @@ for weights in weight_options:
         # #print(new)
         # if i == 4 and weights == 'uniform':
         #     with pd.ExcelWriter(path, mode="a") as writer:
-        #         df_out.to_excel(writer, sheet_name="final_data_lol")
+        #         df_out.to_excel(writer, sheet_name="final_data")
 
         #fig = plt.figure(figsize=(8,8))
         if i==4:
