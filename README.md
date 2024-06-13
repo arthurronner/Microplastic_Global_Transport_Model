@@ -31,3 +31,9 @@ __execute_geo_plots.py__: Contains the functions that execute the figures for th
 
 The data folder contains a couple of key excel files that were used to run the model.
 
+__mp_categories_settings__ contains the settings for the MP categories used in the model.
+__uncertainties__ contains the different uncertainties used in the model, and their ranges. Note that the policies tab needs to exist and should be non-empty in order for the sample generation to work.
+
+__visc_table__ includes the kinematic viscosity values based on temperature (in degrees Celcius).
+
+__washing_data_with_references__ includes the HDI, household size, as well as washing machine ownership rate data for different countries globally. It also indicates the sources used.
