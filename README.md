@@ -1,5 +1,5 @@
 ### Global Microplastic Transport Model
-For my master thesis, I've created a global microplastic transport model, based on physical principles. The thesis will be uploaded to the TU Delft repository shortly. When available, I will link to the work here.
+For my master thesis, I've created a global riverine microplastic transport model, based on physical principles. The thesis will be uploaded to the TU Delft repository shortly. When available, I will link to the work here.
 
 This repository contains all the code required to run the global microplastic transport model, to collect the results, and to create plotting functions. Details about the contents of each of the files is given below. 
 It should be noted that most of the files require input data to function correctly. Please contact arthur.ronner@live.nl if you would like to use this model for more detailed information on input data.
